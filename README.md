@@ -1,6 +1,6 @@
 ## Privacy Policy
 
-Fube Technology built the Amaron Malaysia 2.0 app as a Free app. This SERVICE is provided by Fube Technology at no cost and is intended for use as is.
+Tecxus Company built the Amaron Malaysia 2.0 app as a Free app. This SERVICE is provided by Tecxus Company at no cost and is intended for use as is.
 
 This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.
 
@@ -10,7 +10,7 @@ The terms used in this Privacy Policy have the same meanings as in our Terms and
 
 **Information Collection and Use**
 
-For a better experience, while using our Service, we may require you to provide us with certain personally identifiable information, including but not limited to Car Plate photos, Tax Invoice photos. The information that we request will be retained by us and used as described in this privacy policy.
+For a better experience, while using our Service, we may require you to provide us with certain personally identifiable information, including but not limited to Car Plate Photos, Tax Invoice Photos. The information that we request will be retained by us and used as described in this privacy policy.
 
 The app does use third party services that may collect information used to identify you.
 
